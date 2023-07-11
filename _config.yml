@@ -9,7 +9,8 @@ theme_skin: blue # blue turquoise green berry orange ceramic ncsu
 
 # Select the sections you would like displayed by marking them as true. If you would like to hide a section set the value to false
 display:
-  career-profile: true
+  about-sknandy: true
+  career-profile: false
   education: true
   professional-experience: false
   publications: false
