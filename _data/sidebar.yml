@@ -1,12 +1,12 @@
 contact:
     name: SK Nandy
-    summary: 
-        - Professor
-          Indian Institute of Science, Bangalore 560012
+    summary: |
+        Professor,
+        Indian Institute of Science, Bangalore 560012
     avatar: bio.jpg
 
     # Sidebar links
-    email: nandt@iisc.ac.in # full email address
+    email: nandy@iisc.ac.in # full email address
     phone: # phone number
     website: # your url (e.g. student.github.io), do not add http://
     linkedin: # your linkedin username
