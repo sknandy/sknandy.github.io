@@ -2,6 +2,10 @@
 layout: default
 ---
 
+{% if site.display.about-sknandy %}
+  {% include about-sknandy.html %}
+{% endif %}
+
 {% if site.display.career-profile %}
   {% include career-profile.html %}
 {% endif %}
