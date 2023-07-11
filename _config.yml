@@ -5,7 +5,7 @@
 url: ''
 baseurl: '' #change it according to your repository name
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
-theme_skin: ncsu # blue turquoise green berry orange ceramic ncsu
+theme_skin: blue # blue turquoise green berry orange ceramic ncsu
 
 # Select the sections you would like displayed by marking them as true. If you would like to hide a section set the value to false
 display:
@@ -14,7 +14,7 @@ display:
   professional-experience: true
   publications: true
   presentations: true
-  skills: true
+  skills: false
 
 collections:
   presentations:
