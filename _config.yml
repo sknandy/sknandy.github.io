@@ -11,9 +11,9 @@ theme_skin: blue # blue turquoise green berry orange ceramic ncsu
 display:
   career-profile: true
   education: true
-  professional-experience: true
-  publications: true
-  presentations: true
+  professional-experience: false
+  publications: false
+  presentations: false
   skills: false
 
 collections:
