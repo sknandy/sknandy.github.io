@@ -26,10 +26,10 @@ a {
 }
 
 mya {
-    color: $darker-red;
+    color: $hotpink;
     &:hover {
         text-decoration: underline;
-        color: darken($darker-red, 30%);
+        color: darken($hotpink, 30%);
     }
     &:focus {
         text-decoration: none;
