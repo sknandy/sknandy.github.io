@@ -15,7 +15,7 @@ contact:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     orcid: # your orcid ID number
     osf: # your Open Science Framework username
-    CV: https://sknandy.github.io/assets/sknandyCV.pdf
+    pdf: https://sknandy.github.io/assets/sknandyCV.pdf
 
 education:
     - degree: PhD, CSA
