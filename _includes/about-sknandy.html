@@ -1,0 +1,18 @@
+{% assign about-sknandy = site.data.about-sknandy %}
+{% if about-sknandy %}
+<section class="section summary-section">
+
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-user fa-stack-1x fa-inverse"></i>
+    </span>
+    About Prof. SK Nandy
+  </h2>
+
+  <div class="summary">
+    {{ about-sknandy.summary | markdownify }}
+  </div><!--//summary-->
+
+</section><!--//section-->
+{% endif %}
