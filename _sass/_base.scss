@@ -25,6 +25,17 @@ a {
     }
 }
 
+mya {
+    color: $darker-red;
+    &:hover {
+        text-decoration: underline;
+        color: darken($darker-red, 30%);
+    }
+    &:focus {
+        text-decoration: none;
+    }
+}
+
 p {
     line-height: 1.5;
 }
