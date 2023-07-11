@@ -4,8 +4,9 @@ contact:
     avatar: bio.jpg
 
     # Sidebar links
-    email: nandy1@iisc.ac.in # full email address
-    phone: # phone number
+    email: nandy@iisc.ac.in # full email address
+    phone: +919845209622 # phone number
+    pdf: https://sknandy.github.io/assets/sknandyCV.pdf
     website: # your url (e.g. student.github.io), do not add http://
     linkedin: # your linkedin username
     github: # your github username
@@ -15,7 +16,6 @@ contact:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     orcid: # your orcid ID number
     osf: # your Open Science Framework username
-    pdf: https://sknandy.github.io/assets/sknandyCV.pdf
 
 education:
     - degree: PhD, CSA
