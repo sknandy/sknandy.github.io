@@ -1,6 +1,8 @@
 contact:
-    name: Soumitra Kumar Nandy
-    summary: Professor, Indian Institute of Science, Bangalore 560012
+    name: SK Nandy
+    summary: 
+        - Professor
+          Indian Institute of Science, Bangalore 560012
     avatar: bio.jpg
 
     # Sidebar links
